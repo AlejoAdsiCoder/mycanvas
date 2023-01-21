@@ -1,0 +1,7 @@
+#my-canvas {
+    width: 1000px;
+    height: 1000px;
+}
+
+/* The canvas resolution defines the number of pixel it contains. The resolution is set by setting the canvas element width and height properties */
+
